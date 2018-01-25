@@ -8,4 +8,4 @@
 
 24.01.2018 - All of the seeds have sprouted. Some sprouts are already some centimeters long. A white fluff is observed but is not a fungi. It's part of the natural way a radish seed sprouts. 
 
-
+25.01.2018 - Sprouts are still growning and look healty. Water was added in the morning.
