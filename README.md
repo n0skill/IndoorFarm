@@ -34,6 +34,8 @@ After selecting the substrate, various water supplement will be used to further 
 
 25.01.2018 - Sprouts are still growning and look healty. Water was added in the morning.
 
+29.01.2018 - Sprouts are now several cm long. Out of the 10, 4 that were longer than 7cm were planted in a larger container of normal dirt substrate and were placed under the same light wavelength as the seed (2 LEDs of 660nm, 2 LEDs of 450nm). The remaining seeds are left in the seedling pots.
+
 
 # Litterature
 http://hortsci.ashspublications.org/content/36/2/380.full.pdf+html
