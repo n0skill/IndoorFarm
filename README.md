@@ -4,6 +4,8 @@
 
 ## Initial tests
 
+Those tests will be performed on raddish and lettuce plants and the generated results will then be used for optimisation.
+
 ### Light source
 Tests to evaluate the faisability of an indoor vegetable production using LEDs as the source of radiation.
 
@@ -15,6 +17,7 @@ After testing the light, various substrates will be used and compared.
 ### Water quality
 After selecting the substrate, various water supplement will be used to further increase the samples quality and quantity.
 
+
 ## Increasing density
 
 ## Automation
@@ -22,6 +25,10 @@ After selecting the substrate, various water supplement will be used to further 
 ## Large(r) scale production ??
 
 
+# Questions and answers
+## Why use radish for this experiment ?
+
+Because of their adaptability to various environment and the short time between sowing and maturity [1]
 
 
 # Log
@@ -37,6 +44,10 @@ After selecting the substrate, various water supplement will be used to further 
 29.01.2018 - Sprouts are now several cm long. Out of the 10, 4 that were longer than 7cm were planted in a larger container of normal dirt substrate and were placed under the same light wavelength as the seed (2 LEDs of 660nm, 2 LEDs of 450nm). The remaining seeds are left in the seedling pots.
 
 
+
 # Litterature
 http://hortsci.ashspublications.org/content/36/2/380.full.pdf+html
 http://www.tandfonline.com/doi/abs/10.1080/00103627109366338
+
+# Footnotes
+[1]: https://www.dpi.nsw.gov.au/agriculture/horticulture/vegetables/commodity-growing-guides/radish-growing
