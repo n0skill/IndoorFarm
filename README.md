@@ -1,5 +1,15 @@
 # Indoor farm
 
+The indoor farm is a project to try to make a sustainable indoor farm as a simple solution to a difficult problem that is the production of food in industrialized countries.
+
+Due to the problems of urban sprawl which restricts the surface for producing food, the difficulties that local farmers face to maintain competitivity with other producers, the lack of ressources and many other reasons, local food production is becoming very hard.
+
+One of the main solution to those problems is to produce the food in vertical indoor farms in urban areas.
+
+These farms can produce food in a controlled environment using renewable energy and new technology to boost the production.
+
+
+
 # Progress
 
 ## Initial tests
@@ -43,7 +53,7 @@ Because of their adaptability to various environment and the short time between 
 
 29.01.2018 - Sprouts are now several cm long. Out of the 10, 4 that were longer than 7cm were planted in a larger container of normal dirt substrate and were placed under the same light wavelength as the seed (2 LEDs of 660nm, 2 LEDs of 450nm). The remaining seeds are left in the seedling pots.
 
-
+03.02.2018 - Sprouts that were not yet transfered have been planted inside an argile beads pot. Some sprouts from other seeds that were present in the dirt container have showed up. The environment feels like it has too much humidity. 
 
 # Litterature
 http://hortsci.ashspublications.org/content/36/2/380.full.pdf+html
