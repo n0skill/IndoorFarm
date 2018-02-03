@@ -53,7 +53,13 @@ Because of their adaptability to various environment and the short time between 
 
 29.01.2018 - Sprouts are now several cm long. Out of the 10, 4 that were longer than 7cm were planted in a larger container of normal dirt substrate and were placed under the same light wavelength as the seed (2 LEDs of 660nm, 2 LEDs of 450nm). The remaining seeds are left in the seedling pots.
 
-03.02.2018 - Sprouts that were not yet transfered have been planted inside an argile beads pot. Some sprouts from other seeds that were present in the dirt container have showed up. The environment feels like it has too much humidity. 
+03.02.2018 - Sprouts that were not yet transfered have been planted inside an argile beads pot. Some sprouts from other seeds that were present in the dirt container have showed up. The environment feels like it has too much humidity.
+
+A temperature and humidity sensor has been set up in the pot.
+
+Seeds of lettuce were planted in the pot.
+
+There's now 6 LEDs lights, 3 blue, 3 red.
 
 # Litterature
 http://hortsci.ashspublications.org/content/36/2/380.full.pdf+html
