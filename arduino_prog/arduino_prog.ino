@@ -1,4 +1,3 @@
-
 #include <DHT.h>
 #include <WiFiUdp.h>
 #include <ESP8266WiFi.h>
@@ -7,7 +6,7 @@
 #include <ESP8266HTTPClient.h>
 
 #define DHTPIN 2     // what digital pin we're connected to (warning: IDE pins and ESP pins do not match)
-#define DHTTYPE DHT11   // DHT 11
+#define DHTTYPE DHT22   // DHT 11
 
 
 ESP8266WebServer server(80);
@@ -55,28 +54,37 @@ void sendOK() {
   server.send(200, "text/plain", "OK");
 }
 
+
 void sendTemp()
 {
-  int t = dht.readTemperature();
+  float t = dht.readTemperature();
   if(t < 100 && !isnan(t)){
   server.send(200, "text/plain", String(t));
+  }
+  else
+  {
+    server.send(421);
   }
   
 }
 
 void sendHum()
 {  
-  int h = dht.readHumidity();
+  float h = dht.readHumidity();
   if(h < 100 && !isnan(h))
   {
     server.send(200, "text/plain", String(h));
+  }
+  else
+  {
+    server.send(421);
   }
 }
 
 void sendAll()
 { 
-  int t = dht.readTemperature();
-  int h = dht.readTemperature();
+  float t = dht.readTemperature();
+  float h = dht.readHumidity();
   server.send(200, "text/plain", String(t)+';'+String(h));
 }
 
