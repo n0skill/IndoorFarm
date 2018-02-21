@@ -61,6 +61,9 @@ Seeds of lettuce were planted in the pot.
 
 There's now 6 LEDs lights, 3 blue, 3 red.
 
+
+18.02.2018 - Seeds of lettuce and radishes have been planted in separate seeding pots and a new light system using 1W resistance (instead of 1/4 of watt resistance) has been set up for the seeds.  
+
 # Litterature
 http://hortsci.ashspublications.org/content/36/2/380.full.pdf+html
 http://www.tandfonline.com/doi/abs/10.1080/00103627109366338
